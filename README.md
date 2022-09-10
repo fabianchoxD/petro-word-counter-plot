@@ -8,6 +8,12 @@ After retrieving our data set using <b>BeautifulSoup</b>, we will use the packag
 
 Also we included some repeated and not relevant words to the "exclusion" word list. <br>
 
+## Result
+Here is the .png plot image result with 20.000 words:
+
+![resultado](https://github.com/fabianchoxD/petro-word-counter-plot/blob/main/resultadoDiscursoPetro.png?raw=true)
+
+
 ### Notes
 * If you want to include any kudos or improve recommentaions, here's my Linkedin profile:  <a href="https://www.linkedin.com/in/fabian-stevens-varon/">contact me</a>.
 * Original idea from <a href="https://github.com/PhinanceScientist/AMLO_Wordcloud">Luis Jorge Nobelo</a>, Platzi teacher in: <a href="https://platzi.com/cursos/business-intelligence/"> Curso de Business Intelligence: Utilidad y Áreas de Oportunidad</a>.
